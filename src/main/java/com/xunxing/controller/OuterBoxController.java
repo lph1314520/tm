@@ -76,6 +76,7 @@ public class OuterBoxController {
 	    String str = "000";
 	    String encryptResult = DesUtil.encrypt(str, charset, CommonParams.ENCRYPTOR_KEY);
 		System.out.println(encryptResult);
+		//测试学习
 	}
 	
 }
