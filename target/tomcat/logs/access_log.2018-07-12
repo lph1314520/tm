@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [12/Jul/2018:15:30:22 +0800] "GET /outerBox/getOuterBox.do HTTP/1.1" 500 4180 http-bio-8081-exec-1 79
+0:0:0:0:0:0:0:1 - - [12/Jul/2018:15:30:32 +0800] "GET /outerBox/getOuterBox.do?username=100015 HTTP/1.1" 500 4168 http-bio-8081-exec-4 8
+0:0:0:0:0:0:0:1 - - [12/Jul/2018:15:30:44 +0800] "GET /outerBox/getOuterBox.do?username=100015&password=00 HTTP/1.1" 500 4196 http-bio-8081-exec-5 896
+0:0:0:0:0:0:0:1 - - [12/Jul/2018:15:30:48 +0800] "GET /outerBox/getOuterBox.do?username=100015&password=000 HTTP/1.1" 200 6199 http-bio-8081-exec-6 462

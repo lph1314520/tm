@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.xunxing.mapper.OuterBoxMapper" >
+	
+	<select id="getOuterBoxList"  resultType="com.xunxing.pojo.OuterBox">
+		select * from SOuterBox order by outer_box_no 
+	</select>
+	
+
+</mapper>

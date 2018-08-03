@@ -1,0 +1,15 @@
+com\xunxing\common\util\DesUtil.class
+com\xunxing\service\OuterBoxService.class
+com\xunxing\mapper\UserMapper.class
+com\xunxing\controller\OuterBoxController.class
+com\xunxing\service\impl\UserServiceImpl.class
+com\xunxing\common\util\StringUtil.class
+com\xunxing\common\util\DateUtil.class
+com\xunxing\common\pojo\JsonResult.class
+com\xunxing\service\UserService.class
+com\xunxing\service\impl\OuterBoxServiceImpl.class
+com\xunxing\mapper\OuterBoxMapper.class
+com\xunxing\controller\IndexController.class
+com\xunxing\common\pojo\JsonResultUtil.class
+com\xunxing\common\pojo\CommonParams.class
+com\xunxing\pojo\OuterBox.class
